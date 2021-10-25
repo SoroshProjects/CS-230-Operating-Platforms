@@ -1,1 +1,7 @@
 # CS-230-Operating-Platforms
+The Gaming Room (client) wants to develop a web-based game that serves multiple platforms, based on their current Android-only game application, Draw It or Lose It. A game consists of four one-minute rounds of play. The game application renders images from a large library of stock drawings as clues, and teams compete to solve the puzzle by guessing what is being drawn. Fully rendered drawings completion at a steady rate happens at the 30-second mark. If the team does not guess the puzzle before time expires, the remaining teams have a chance to offer one guess each to solve the puzzle with a 15-second time limit.
+Creating this document helped me to improve through this course and produce a satisfying result in the end. I should say that I am happy with the overall result of the project.
+Developing the program code helps to understand the objective better and it can help to recognize the connection between the program code and the software design document.
+Perhaps I want to improve the software design constraint.
+This program is for the client's use based on their needs. The client's needs are what make this functional and successful from the client's perspective. Without those needs what is the point of designing and creating an application for the client.
+Active listening to the client to understand and recognize their needs and also detail research to find the best solution for the client.
